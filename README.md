@@ -1,6 +1,6 @@
 # Welcome to my nook!
 I'm currently learning about fullstack, UI and UX.
-I'm always eager to translate apps and projects to Finnish (especially during Hacktoberfest 🎃).
+I'm always eager to translate apps and projects to Finnish (most proactive during Hacktoberfest 🎃). I especially hope I get chances to help with translating some small games to Finnish.
 
 ## Fullstack
 [Database of All Things](https://github.com/minna-xD/dboat-fullstack)
